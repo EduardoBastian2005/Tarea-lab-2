@@ -15,7 +15,7 @@ class Program
         else
         {
             area = (int)(Math.PI * Math.Pow(num1, 2));
-            Console.WriteLine("El área del círculo es", area);
+            Console.WriteLine("El área del círculo es" + area);
         }
     }
 }
